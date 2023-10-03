@@ -1,0 +1,169 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+.customButton1 {
+  width: 100px;
+  height: 100px;
+  padding: 15px;
+  background-color: #4b5357;
+  border: 3px solid #4b5357;
+  color: #372e3c;
+  font-weight: bold;
+  border-radius: 50%;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 48px;
+  font-family: sans-serif;
+  margin: 4px 2px;
+  cursor: pointer;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+  outline: none;
+}
+
+.customButton2 {
+  width: 100px;
+  height: 100px;
+  padding: 15px;
+  background-color: #f58613;
+  border: 3px solid #f58613;
+  color: #d8640c;
+  font-weight: bold;
+  border-radius: 50%;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 48px;
+  font-family: sans-serif;
+  margin: 4px 2px;
+  cursor: pointer;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+  outline: none;
+}
+
+.customButton3 {
+  width: 100px;
+  height: 100px;
+  padding: 15px;
+  background-color: #422010;
+  border: 3px solid #422010;
+  color: #61321a;
+  font-weight: bold;
+  border-radius: 50%;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 48px;
+  font-family: sans-serif;
+  margin: 4px 2px;
+  cursor: pointer;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+  outline: none;
+}
+
+.customButton4 {
+  width: 100px;
+  height: 100px;
+  padding: 15px;
+  background-color: #cf0c3a;
+  border: 3px solid #cf0c3a;
+  color: #8f2720;
+  font-weight: bold;
+  border-radius: 50%;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 48px;
+  font-family: sans-serif;
+  margin: 4px 2px;
+  cursor: pointer;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+  outline: none;
+}
+
+.backBt {
+  width: 80px;
+  height: 50px;
+  padding: 15px;
+  background-color: #0c5dcf;
+  border: 3px solid #0c54cf;
+  color: #ffffff;
+  font-weight: bold;
+  border-radius: 50%;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  font-family: sans-serif;
+  margin: 4px 2px;
+  cursor: pointer;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+  outline: none;
+}
+
+.pauseBt {
+  width: 80px;
+  height: 50px;
+  padding: 15px;
+  background-color: #0ccf30;
+  border: 3px solid #15a540;
+  color: #ffffff;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  font-family: sans-serif;
+  margin: 4px 2px;
+  cursor: pointer;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+  outline: none;
+}
+
+.lockButtonInfo {
+  width: 100px;
+  height: 100px;
+  padding: 15px;
+  background-image: url('./assets/LockImg.png');
+  background-size: cover;
+  background-color: #5e5e5e70;
+  border: 3px solid #5e5e5e70;
+  border-radius: 50%;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+  outline: none;
+}
+
+.gameButtonInfo{
+  width: 360px;
+  height: 90px;
+  padding: 15px;
+  background-color: #10b2c9;
+  border: 3px solid #10b2c9;
+  color: #000000;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 32px;
+  font-family: sans-serif;
+  margin: 4px 2px;
+  cursor: pointer;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+  outline: none;
+}
